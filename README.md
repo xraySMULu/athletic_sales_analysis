@@ -1,5 +1,6 @@
 # athletic_sales_analysis
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 This challenge focuses on sales analysis data to gain insights on which cities in the US have sold the most athletic wear.
 
@@ -27,6 +28,7 @@ For more information see the [Python Software Foundation Code of Conduct](https:
 
 ## Support
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 athletic_sales_analysis is an open-source project with a single maintainer. The best way to resolve your issue is to fix it yourself. Fork the repository and submit a pull request. 
 
 ### Get help
