@@ -4,7 +4,7 @@
 
 This challenge focuses on sales analysis data to gain insights on which cities in the US have sold the most athletic wear.
 
-## What pandas-challenge-1 does
+## What athletic_sales_analysis does
 
 In this challenge, we'll determine which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. Finally, we'll determine which day and week had the highest sales for women's athletic footwear.
 
